@@ -8,10 +8,10 @@ Una mini web estática donde cada integrante del equipo tiene su propia sección
 
 | Integrante | Rol | Sección |
 |---|---|---|
-| Nombre Apellido | Líder / Integrador | [`nombre.html`](./nombre.html) |
-| Nombre Apellido | Anfitrión del servidor | [`nombre.html`](./nombre.html) |
-| Nombre Apellido | Desarrollador / Revisor | [`nombre.html`](./nombre.html) |
-| Nombre Apellido | Desarrollador / Documentador | [`nombre.html`](./nombre.html) |
+| Andres Buestan | Líder / Integrador | [`nombre.html`](./nombre.html) |
+| Jefferson Farez | Anfitrión del servidor | [`nombre.html`](./nombre.html) |
+| Sebastian Nugra | Desarrollador / Revisor | [`nombre.html`](./nombre.html) |
+| Damian Guiñansaca | Desarrollador / Documentador | [`nombre.html`](./nombre.html) |
 
 ## Estructura del proyecto
 
